@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='SampleFrameworkTests.xctest' tests='6' failures='0'>
+  <testsuite name='SampleFrameworkTests.SampleFrameworkTests' tests='6' failures='0'>
+    <testcase classname='SampleFrameworkTests.SampleFrameworkTests' name='test440' time='0.007'/>
+    <testcase classname='SampleFrameworkTests.SampleFrameworkTests' name='testDeux' time='0.001'/>
+    <testcase classname='SampleFrameworkTests.SampleFrameworkTests' name='testNegDeux' time='0.001'/>
+    <testcase classname='SampleFrameworkTests.SampleFrameworkTests' name='testNegUn' time='0.003'/>
+    <testcase classname='SampleFrameworkTests.SampleFrameworkTests' name='testUn' time='0.002'/>
+    <testcase classname='SampleFrameworkTests.SampleFrameworkTests' name='testZero' time='0.001'/>
+  </testsuite>
+</testsuites>
